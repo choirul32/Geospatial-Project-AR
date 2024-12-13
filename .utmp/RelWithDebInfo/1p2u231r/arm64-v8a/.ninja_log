@@ -1,0 +1,23 @@
+# ninja log v5
+3	1501	7557831049323756	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	22f317e26ec6a8e4
+101	288	7557831037179613	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	e0ba2b1c89e6cb16
+288	487	7557831039174012	D:/GAME DEVELOPMENT/Geospatial Project AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1p2u231r/obj/arm64-v8a/libswappywrapper.so	9f90a9e0d3ff47d9
+85	1054	7557831044738332	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3d175fe30e55a9c5
+70	1059	7557831044793514	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4c087c30fbdcbe1
+93	1163	7557831045857574	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	94cca59d0f65afb4
+24	1045	7557831044642752	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c6e669989fbf687
+17	1180	7557831046050807	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32033a837d0d4ef9
+31	1065	7557831044859062	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	1c2b875814af422f
+78	1379	7557831048096550	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	13a88947c353508a
+1502	1616	7557831050486808	D:/GAME DEVELOPMENT/Geospatial Project AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1p2u231r/obj/arm64-v8a/libgame.so	1de99ac8723f00ef
+101	295	7557835463583516	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	e0ba2b1c89e6cb16
+296	495	7557835465630354	D:/GAME DEVELOPMENT/Geospatial Project AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1p2u231r/obj/arm64-v8a/libswappywrapper.so	9f90a9e0d3ff47d9
+69	1082	7557835471340341	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3d175fe30e55a9c5
+85	1086	7557835471340341	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4c087c30fbdcbe1
+3	1118	7557835471763097	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c6e669989fbf687
+77	1165	7557835472237491	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	1c2b875814af422f
+93	1228	7557835472888856	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	94cca59d0f65afb4
+16	1300	7557835473656233	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32033a837d0d4ef9
+47	1434	7557835475019843	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	13a88947c353508a
+23	1525	7557835475874288	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	22f317e26ec6a8e4
+1525	1633	7557835477048615	D:/GAME DEVELOPMENT/Geospatial Project AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1p2u231r/obj/arm64-v8a/libgame.so	1de99ac8723f00ef
